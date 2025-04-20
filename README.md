@@ -43,4 +43,4 @@ To run this notebook locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/spam-detection-ml.git
+git clone https://github.com/amanchaumal/spam-detection-python-ml.git
